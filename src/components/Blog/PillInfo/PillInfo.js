@@ -28,7 +28,7 @@ const PillInfo = (props) => {
               <br />/ Per Dose
             </div>
             <div>
-              <h5>Previously </h5>
+              <p>Previously <p>
               <table>
                 {props.subtitle.map((data) => (
                   <tr>
